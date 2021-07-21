@@ -5,8 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+there+%F0%9F%91%8B;I'm+Douglas+Barreto;Programmer+and+dreamer;Welcome+to+my+profile!">
   </a>
 </h1> 
-<table style="border= none";>
-<td>
+<hr>
 
 ##### NOW
 
@@ -25,18 +24,12 @@
 - 💬 Do your best, in the condition you have, and never be satisfied, always look for more.
 - ⚡️ Fun fact: I'm like astronomy 🪐
 
-</td>
-<td>
-<img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif">
-<td>
-</table>
 <br>
 <br>
 <br>
 <section style="margin-top: 10px;">
 <a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Facebook_icon-icons.com_66805.png" width="32px" alt="Facebook" title="My Facebook"></a>&nbsp;
 <a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/306/PNG/512/Website-Icon_33937.png" width="32px" alt="Website" title="My Website"></a>&nbsp;
-<a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width="32px" alt="Instagram" title="My Instagram"></a>&nbsp;
 <a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" width="32px" alt="Linkedin" title="My Linkedin"></a>&nbsp;
 <a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1011/PNG/512/YouTube_icon-icons.com_75725.png" width="32px" alt="Youtube" title="My Youtube Channel"></a>&nbsp;
 <a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Stack_Overflow_icon-icons.com_66761.png" width="32px" alt="Stack Overflow" title="My Stack Overflow profile"></a>
