@@ -16,13 +16,13 @@
 ##### BIO
 
 - ❤️ I'm passionate about technology
-- 🎓 I'm majoring in Systems Analysis and Development (I graduate in 2021)
+- 🎓 I'm majoring in Systems Analysis and Development (I will graduate in 2021)
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.php`, `.myd`, `.db`
 - 🌍 I'm have a group for Brazilian beginners on the telegram [**Entry**](https://t.me/AnaliseDesenvolvimentoDeSistemas)
 - ♨️ I'm plan to become a developer FullStack
 - 📫 Send me a message, I promise I'll answer: **doouglas_barreto@hotmail.com**
 - 💬 Do your best, in the condition you have, and never be satisfied, always look for more.
-- ⚡️ Fun fact: I'm like astronomy 🪐
+- ⚡️ Fun fact: I like astronomy 🪐
 
 <br>
 <br>
