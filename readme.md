@@ -16,7 +16,8 @@
 ##### BIO
 
 - ❤️ I'm passionate about technology
-- 🎓 I'm majoring in Systems Analysis and Development (I will graduate in 2021)
+- 🎓 I have a degree in Systems Analysis and Development.
+- 🎓 I'm graduating from a postgraduate degree in Program Analysis and Development.
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.php`, `.myd`, `.db`, `.py`
 - 🌍 I'm have a group for Brazilian beginners on the telegram [**Entry**](https://t.me/AnaliseDesenvolvimentoDeSistemas)
 - ♨️ I'm plan to become a developer FullStack
