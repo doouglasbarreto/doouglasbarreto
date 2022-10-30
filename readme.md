@@ -30,7 +30,7 @@
 <br>
 <section style="margin-top: 10px;">
 <a href="https://www.facebook.com/doouglasbarreto" target="_blank"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Facebook_icon-icons.com_66805.png" width="32px" alt="Facebook" title="My Facebook"></a>&nbsp;
-<a href="http://douglasbarreto.me/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/306/PNG/512/Website-Icon_33937.png" width="32px" alt="Website" title="My Website"></a>&nbsp;
+<a href="http://douglasbarreto.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/306/PNG/512/Website-Icon_33937.png" width="32px" alt="Website" title="My Website"></a>&nbsp;
 <a href="https://www.linkedin.com/in/douglas-barreto" target="_blank"><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" width="32px" alt="Linkedin" title="My Linkedin"></a>&nbsp;
 </section>
 
