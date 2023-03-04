@@ -10,17 +10,16 @@
 ##### NOW
 
 - 🗺️ I'm live in Brazil
-- 🔍 I'm look for new opportunities
-- 📚 Improving Python studies
+- 🔍 I'm working in TOTVS
+
 
 ##### BIO
 
 - ❤️ I'm passionate about technology
 - 🎓 I have a degree in Systems Analysis and Development.
 - 🎓 I'm graduating from a postgraduate degree in Program Analysis and Development.
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.php`, `.myd`, `.db`, `.py`
+- ⚙️ I use daily: `.sql`, `.java`, `.js`, `.html`, `.css`, `.php`, `.myd`, `.db`, `.py`
 - 🌍 I'm have a group for Brazilian beginners on the telegram [**Entry**](https://t.me/AnaliseDesenvolvimentoDeSistemas)
-- ♨️ I'm plan to become a developer FullStack
 - 📫 Send me a message, I promise I'll answer: **doouglas_barreto@hotmail.com**
 - 💬 Do your best, in the condition you have, and never be satisfied, always look for more.
 - ⚡️ Fun fact: I like astronomy 🪐
